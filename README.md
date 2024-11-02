@@ -32,17 +32,7 @@ pip install beautifulsoup4 requests nltk pandas
 1. Ensure that you have Python installed on your system.
 2. Install the required dependencies as mentioned above.
 3. Place the `input.xlsx` file in the project directory.
-4. Run the `data_extraction.py` script to extract article text from the URLs:
-   ```
-   python data_extraction.py
-   ```
-   This will generate text files for each article in the project directory.
-
-5. Run the `data_analysis.py` script to perform textual analysis and compute variables:
-   ```
-   python data_analysis.py
-   ```
-   This will generate the `output.csv` file with the computed variables for each article.
+4. Go through the respective notebooks
 
 ## Approach
 
